@@ -61,7 +61,7 @@ GROUP BY 1, 2;
 
 ## Resultado da consulta
 
-![Resultado da consulta SQL](images/SQLrecuperandodados.png)
+![Resultado da consulta SQL](SQLrecuperandodados.png)
 
 ## Integração com o Power BI
 
@@ -118,7 +118,7 @@ Entre as informações apresentadas estão:
 
 ### Dashboard
 
-![Dashboard Power BI](images/desafio3.png)
+![Dashboard Power BI](desafio3.png)
 
 ## Adaptação do Azure
 
@@ -151,7 +151,7 @@ Com este projeto foi possível praticar:
 
 ## Estrutura do repositório
 
-
+```text
 desafio-power-bi-mysql/
 │
 ├── README.md
@@ -162,7 +162,7 @@ desafio-power-bi-mysql/
 └── images/
     ├── desafio3.png
     └── SQLrecuperandodados.png
-
+```
 
 ## Referência
 
